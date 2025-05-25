@@ -44,20 +44,30 @@ Manually searching through lengthy documents is inefficient. This project allows
 ## 5. System Architecture
 
 [User Uploads Document]
-|
-v
-[File Parsing & Text Extraction]
-|
-v
-[Text Chunking & Embedding]
-|
-v
-[ChromaDB Vector Storage]
-|
-v
-[User Query] --> [Similarity Search] --> [Gemini LLM] --> [Response]
 
-text
+|
+
+v
+
+[File Parsing & Text Extraction]
+
+|
+
+v
+
+[Text Chunking & Embedding]
+
+|
+
+v
+
+[ChromaDB Vector Storage]
+
+|
+
+v
+
+[User Query] --> [Similarity Search] --> [Gemini LLM] --> [Response]
 
 ---
 
