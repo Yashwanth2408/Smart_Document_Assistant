@@ -43,31 +43,7 @@ Manually searching through lengthy documents is inefficient. This project allows
 
 ## 5. System Architecture
 
-[User Uploads Document]
-
-|
-
-v
-
-[File Parsing & Text Extraction]
-
-|
-
-v
-
-[Text Chunking & Embedding]
-
-|
-
-v
-
-[ChromaDB Vector Storage]
-
-|
-
-v
-
-[User Query] --> [Similarity Search] --> [Gemini LLM] --> [Response]
+![Diagram](./References/workflow.png)
 
 ---
 
@@ -212,7 +188,25 @@ st.write("AI:", answer)
 
 ## 13. Screenshots
 
-> *(Add screenshots of each supported file type as shown in the original document)*
+- xls format:
+  
+![Diagram](./References/xls.png)
+
+- pdf format:
+  
+![Diagram](./References/pdf.png)
+
+- pptx format:
+  
+![Diagram](./References/pptx.png)
+
+- txt format:
+  
+![Diagram](./References/txt.png)
+
+- docs format:
+  
+![Diagram](./References/docs.png)
 
 ---
 
@@ -224,7 +218,7 @@ This chatbot combines modern NLP and LLMs for seamless, conversational document 
 
 ## Links
 
-- **[GitHub Repository](https://github.com/praveenaperi/ai-doc-chatbot)**
+- **[GitHub Repository](https://github.com/Yashwanth2408/Smart_Document_Assistant)**
 - **[Working Demo Video](https://drive.google.com/drive/folders/1QK3T55u8egJfaf_IWesIMhnm7VG41Lcy?usp=sharing)**
 
 ---
