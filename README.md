@@ -1,7 +1,7 @@
 # Smart Document Assistant
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue)](https://github.com/Yashwanth2408/Smart_Document_Assistant)
-[![Working Video](https://img.shields.io/badge/Working-Video-green)](https://drive.google.com/drive/folders/1QK3T55u8egJfaf_IWesIMhnm7VG41Lcy?usp=sharing)
+[![Working Video](https://img.shields.io/badge/Working-Video-green)](https://drive.google.com/file/d/1to3NTV6tVnMWJUTyAWOunilqd8rs5D5K/view?usp=sharing)
 
 ---
 
@@ -219,7 +219,7 @@ This chatbot combines modern NLP and LLMs for seamless, conversational document 
 ## Links
 
 - **[GitHub Repository](https://github.com/Yashwanth2408/Smart_Document_Assistant)**
-- **[Working Demo Video](https://drive.google.com/drive/folders/1QK3T55u8egJfaf_IWesIMhnm7VG41Lcy?usp=sharing)**
+- **[Working Demo Video](https://drive.google.com/file/d/1to3NTV6tVnMWJUTyAWOunilqd8rs5D5K/view?usp=sharing)**
 
 ---
 
